@@ -7,6 +7,7 @@ namespace RNATranscriptionModule
         public static string ToRna(string nucleotide)
         {
             //throw new NotImplementedException("You need to implement this function.");
+            //implementing the function
             string OutputNucleotide="";
             for (int i = 0; i < nucleotide.Length; i++)
             {
